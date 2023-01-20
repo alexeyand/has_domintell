@@ -2,7 +2,7 @@
   "domain": "domintell",
   "name": "Domintell Integration",
   "version": "1.0.0",
-  "documentation": "https://github.com/shamanenas/has_domintell",
+  "documentation": "https://github.com/alexeyand/has_domintell",
   "dependencies": ["mqtt"],
   "codeowners": ["@zilvinas"],
   "requirements": ["python-domintell==0.0.17"],
