@@ -5,6 +5,6 @@
   "documentation": "https://github.com/alexeyand/has_domintell",
   "dependencies": ["mqtt"],
   "codeowners": ["@zilvinas"],
-  "requirements": ["python-domintell==0.0.17"],
+  "requirements": ["https://github.com/alexeyand/python-domintell.git"],
   "quality_scale": "Silver"
 }
